@@ -1,0 +1,908 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+.sec {
+    padding: 20px 0px 20px 0px;
+
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+    width: 1300px;
+    height: 51px;
+    top: 29px;
+    left: 119px;
+    padding: 0px, 7.5px, 2px, 206px;
+    margin: 0 auto;
+
+}
+
+.navbar {
+    width: 482px;
+    height: 19px;
+    top: 14px;
+    left: 206px;
+    gap: 40px;
+    margin: 14px 50px 0px 0px;
+}
+
+.navbar1 {
+    display: flex;
+    justify-content: right;
+    list-style-type: none;
+    width: 400px;
+    height: 51px;
+    top: -2px;
+    left: 1051.5px;
+    gap: 40px;
+
+}
+
+.home {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.xyz {
+    margin-right: 20px;
+}
+
+.abc {
+    width: 48px;
+    height: 19px;
+    text-decoration: none;
+    color: #333;
+}
+
+.offer {
+    width: 48px;
+    height: 19px;
+    text-decoration: none;
+    color: rgba(125, 125, 125, 1);
+}
+
+.xyzz {
+    width: 127px;
+    height: 51px;
+    padding: 16px, 32px, 16px, 32px;
+    border-radius: 30px;
+    gap: 16px;
+    background: rgba(242, 122, 68, 1);
+}
+
+.course {
+
+    width: 65px;
+    height: 19px;
+
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-decoration: none;
+    color: rgba(255, 255, 255, 1);
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    width: 1300px;
+    height: 810px;
+    top: 97px;
+    margin: 0 auto;
+    padding: 20px;
+    overflow: hidden;
+    /* Clear floats */
+    background: rgba(248, 241, 211, 0.25);
+
+}
+
+.Ellipse {
+    width: 50px;
+    height: 50px;
+    top: 238px;
+    left: 266px;
+    rotate: -180 deg;
+
+}
+
+.Ellipse1 {
+    width: 20px;
+    height: 20px;
+    top: 253px;
+    left: 892px;
+    rotate: -0 deg;
+    padding: 130px 0 0px 0px;
+
+}
+
+.Ellipse2 {
+    width: 19px;
+    height: 19px;
+    top: 480px;
+    left: 714px;
+    padding: 0 0 38px 0;
+
+}
+
+.content {
+    width: 636px;
+    height: 521px;
+    top: 338px;
+    left: 119px;
+    gap: 50px;
+    margin: 165px 0 0 0px;
+
+}
+
+
+.excel {
+    width: 522px;
+    height: 332px;
+    gap: 8px;
+}
+
+.Discover {
+    width: 329px;
+    height: 24px;
+
+}
+
+.Student {
+    width: 522px;
+    height: 300px;
+    margin: 0;
+
+    font-family: Poppins;
+    font-size: 80px;
+    font-weight: 500;
+    line-height: 100px;
+    letter-spacing: 0em;
+    text-align: left;
+
+    font-family: Poppins;
+    font-size: 80px;
+    font-weight: 700;
+    line-height: 100px;
+    letter-spacing: 0em;
+    text-align: left;
+
+    color: rgba(31, 32, 39, 1);
+
+
+}
+
+.Lorem {
+    width: 585px;
+    height: 38px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+
+    color: rgba(80, 92, 89, 1);
+}
+
+.Subtract1 {
+    width: 14px;
+    height: 14px;
+    top: 783px;
+    left: 714px;
+    padding: 18px 0 0 289px;
+
+}
+
+.Subtract2 {
+    width: 34px;
+    height: 34px;
+    top: 905px;
+    left: 1267px;
+
+}
+
+.button {
+    width: 165px;
+    height: 51px;
+    padding: 16px, 50px, 16px, 50px;
+    border-radius: 30px;
+    gap: 16px;
+    border: none;
+    margin-top: 24px;
+    background: rgba(242, 122, 68, 1);
+
+
+}
+
+.Group {
+    width: 541px;
+    height: 637.34px;
+    top: 135px;
+    left: 845px;
+    margin-top: 20px;
+
+}
+
+.container2 {
+    display: flex;
+    justify-content: center;
+    width: 1300px;
+    height: 810px;
+    top: 97px;
+    margin: 0 auto;
+    padding: 28px 0px 0 0px;
+    overflow: hidden;
+
+}
+
+.Jenny {
+    width: 360px;
+    height: 490px;
+    top: 1282px;
+    left: 241px;
+    border-radius: 20px;
+    padding: 120px 108px 0 0px;
+
+
+}
+
+.card {
+    display: flex;
+    width: 360px;
+    height: 130px;
+    top: 1282px;
+    left: 241px;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    gap: 10px;
+    margin: 0px 0px 30px 0px;
+
+}
+
+.content1 {
+    width: 310px;
+    height: 80px;
+    gap: 10px;
+
+}
+
+.for {
+    padding: 142px 0 0px 54px;
+}
+
+.Ellipse3 {
+    width: 24px;
+    height: 24px;
+    top: 1270px;
+    left: 849px;
+    ROTATE: -180 deg;
+
+}
+
+.avatar {
+    width: 80px;
+    height: 80px;
+    margin: 20px 0 0 20px;
+
+}
+
+.name {
+    width: 108px;
+    height: 21px;
+
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+
+}
+
+.Subtract {
+    width: 168px;
+    height: 168px;
+    top: 1114px;
+    left: 1116px;
+
+    float: right;
+
+
+
+
+}
+
+.content2 {
+    width: 447px;
+    height: 397px;
+    top: 1333px;
+    left: 852px;
+    gap: 60px;
+
+
+}
+
+.Tropical {
+    width: 288px;
+    height: 54px;
+
+    font-family: Poppins;
+    font-size: 27px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: left;
+
+    color: rgba(0, 0, 0, 1);
+
+}
+
+.Vacation {
+    width: 447px;
+    height: 24px;
+
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+}
+
+
+.Our {
+    width: 321px;
+    height: 48px;
+    top: 2013px;
+    left: 119px;
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 300;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin: -138px 0 20px -120px;
+
+    color: rgba(0, 0, 0, 1);
+}
+
+.container3 {
+    margin-left: 230px;
+
+}
+
+.aacard {
+    display: flex;
+    justify-content: center;
+    width: 980px;
+    height: 495px;
+    top: 2121px;
+    left: 119px;
+    border-radius: 20px;
+
+
+}
+
+.card2 {
+    width: 390px;
+    height: 460px;
+    top: 2121px;
+    left: 119px;
+    margin: 0 16px 0 0;
+
+    border-radius: 20px;
+    color: rgba(255, 255, 255, 1);
+    box-shadow: 0px -8px 80px 0px rgba(0, 0, 0, 0.07);
+}
+
+
+
+.collage {
+    width: 300px;
+    height: 327px;
+    padding: 38px, 26px, 38px, 26px;
+    border-radius: 20px;
+    justify-content: space-between;
+
+}
+
+.University {
+    width: 237px;
+    height: 33px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 900;
+    line-height: 33px;
+    letter-spacing: 0em;
+    text-align: left;
+    padding: 0 0 0 20px;
+    color: rgba(0, 0, 0, 1);
+}
+
+.University1 {
+    width: 360;
+    height: 83px;
+    padding: 25px 0 0 52px;
+    gap: 10px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 900;
+    line-height: 0px;
+    letter-spacing: 0em;
+    text-align: left;
+    overflow: hidden;
+    color: rgba(0, 0, 0, 1);
+
+}
+
+.country {
+    width: 152px;
+    height: 16px;
+    font-family: Poppins;
+    font-size: 9px;
+    font-weight: 500;
+    line-height: 52px;
+    letter-spacing: 0em;
+    text-align: left;
+    padding: 0 0 0 15px;
+    color: rgba(0, 0, 0, 1);
+}
+
+.country1 {
+    width: 152px;
+    height: 16px;
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 52px;
+    letter-spacing: 0em;
+    text-align: left;
+    padding: 0 0 0 32px;
+    margin-top: -78px;
+    color: rgba(0, 0, 0, 1);
+}
+
+.Icons {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    padding: 10px 0 0 140px;
+    border-radius: 50px;
+    gap: 4px;
+    margin-top: -12px;
+
+}
+
+.Frame {
+    width: 187px;
+    height: 45px;
+    top: 2686px;
+    left: 663px;
+    gap: 15px;
+    margin: 0 auto;
+
+}
+
+.container4 {
+    padding: 0 0 0 60px;
+}
+
+.content3 {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    padding: 50px 0 0 135px;
+}
+
+.Subtract3 {
+    width: 59px;
+    height: 59px;
+    top: 2884px;
+    left: 491px;
+    padding: 110px 0px 0 0;
+    margin-left: -48px;
+
+}
+
+.for1 {
+    width: 547px;
+    height: 397px;
+    top: 2978px;
+    left: 177px;
+    gap: 60px;
+
+}
+
+.Ellipse4 {
+    width: 40px;
+    height: 40px;
+    top: 2914px;
+    left: 259px;
+    rotate: 180 deg;
+    padding: 95px 0 0 0px;
+
+}
+
+.Get {
+    width: 225px;
+    height: 24px;
+
+    font-family: Poppins;
+    font-size: 19px;
+    font-weight: 500;
+    line-height: 296px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(31, 32, 39, 1);
+}
+
+.discounts {
+    width: 547px;
+    height: 82px;
+
+    font-family: Poppins;
+    font-size: 34px;
+    font-weight: 400;
+    line-height: 262px;
+    letter-spacing: 0em;
+    text-align: left;
+
+    color: rgba(31, 32, 39, 1);
+}
+
+.ready {
+    width: 547px;
+    height: 82px;
+
+    font-family: Poppins;
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 112px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(31, 32, 39, 1);
+
+}
+
+.Mask {
+    width: 407px;
+    height: 568.5px;
+    top: 2810px;
+    left: 850px;
+    margin-top: -161px;
+
+}
+
+.Photo {
+    width: 430px;
+    height: 680.28px;
+    top: 3546px;
+    left: 105px;
+    padding: 0 0 0 130px;
+
+}
+
+.container5 {
+    display: flex;
+    justify-content: center;
+    width: 1300px;
+    height: 810px;
+    top: 97px;
+    margin: 0 auto;
+    padding: 60px 0 150px 0;
+    overflow: hidden;
+
+}
+
+
+.content4 {
+    width: 420.23px;
+    height: 600.42px;
+    top: 3701px;
+    left: 828px;
+    border-radius: 23.35px;
+    margin: 166px 100px 0 209px;
+
+    box-shadow: 0px 66.53697204589844px 93.38522338867188px 0px rgba(0, 0, 0, 0.07);
+    background: rgba(255, 255, 255, 1);
+
+}
+
+.box {
+    width: 420.23px;
+    height: 146.56px;
+    padding: 29.18px;
+    gap: 11.67px;
+    padding: 0 0 0 29px;
+
+}
+
+.Book {
+    width: 145px;
+    height: 38px;
+
+    font-family: Poppins;
+    font-size: 28px;
+    font-weight: 900;
+    line-height: 78px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+}
+
+.sit {
+    width: 361.87px;
+    height: 38.52px;
+
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0.5836576223373413px;
+    text-align: left;
+    color: rgba(40, 40, 40, 1);
+}
+
+.booking-form {
+    width: 420.23px;
+    height: 600.42px;
+    top: 3701px;
+    left: 828px;
+    border-radius: 23.35px;
+
+    border-radius: 8px;
+    padding: 20px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input[type="text"],
+input[type="date"],
+input[type="number"] {
+    border-radius: 11.67px;
+    padding: 8px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+}
+
+#city {
+    width: 359.53px;
+    height: 30.53px;
+    padding: 0px, 0px, 0px, 17.51px;
+    border-radius: 11.67px;
+    padding: 8px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+}
+
+#arrival {
+    width: 160.1px;
+    height: 30.53px;
+    padding: 0px, 0px, 0px, 17.51px;
+    border-radius: 11.67px;
+    margin: 0 0 0 0;
+
+}
+
+#departure {
+    width: 160.1px;
+    height: 30.53px;
+    padding: 0px, 0px, 0px, 17.51px;
+    border-radius: 11.67px;
+    margin: 0 0 0 23px;
+}
+
+#stars {
+    width: 85.1px;
+    height: 30.53px;
+    border-radius: 11.67px;
+    justify-content: space-between;
+    text-align: center;
+    background: rgba(243, 243, 243, 1);
+    border: none;
+
+}
+
+#rooms {
+    width: 85.1px;
+    height: 30.53px;
+    border-radius: 11.67px;
+    justify-content: space-between;
+    text-align: center;
+    background: rgba(243, 243, 243, 1);
+    border: none;
+}
+
+.xcx {
+    width: 8px;
+    height: 27px;
+
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0.5836576223373413px;
+    text-align: left;
+
+
+    color: rgba(120, 133, 143, 1);
+}
+
+.form-group1 {
+    width: 125.35px;
+    height: 46.02px;
+    padding: 14.01px, 18.68px, 14.01px, 18.68px;
+    margin: 40px 0 0 0px;
+    border-radius: 4.67px;
+    background: rgba(0, 0, 0, 1);
+
+}
+
+
+
+.Book1 {
+    width: 88px;
+    height: 18px;
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 18px;
+    letter-spacing: 1.2607004642486572px;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+}
+
+.star-input {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.room-input {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 6px 0 0 40px;
+}
+
+.minus {
+    width: 32.36px;
+    height: 42.53px;
+    padding: 15.18px;
+    border-radius: 0px, 11.67px, 11.67px, 0px;
+    border: none;
+    rotate: -180 deg;
+    margin: 5px 0 0 0px;
+    background: rgba(235, 235, 235, 1);
+
+
+}
+
+.plus {
+    width: 32.36px;
+    height: 42.53px;
+    padding: 15.18px;
+    border-radius: 0px, 11.67px, 11.67px, 0px;
+    border: none;
+    rotate: -180 deg;
+    margin: 5px 0 0 0px;
+    background: rgba(235, 235, 235, 1);
+}
+
+.Testimonials {
+    width: 1088px;
+    height: 408px;
+    top: 4521px;
+    left: 176px;
+    margin: 0 auto;
+    padding: 0 0 0 60px;
+}
+
+.content5{
+    padding: 0 0 0 50px;
+}
+
+.Special {
+    width: 688px;
+    height: 96px;
+    font-family: Poppins;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin: 0 auto;
+    color: rgba(0, 0, 0, 1);
+    padding: 160px 0 0 60px;
+}
+
+.para{
+    width: 423px;
+height: 44px;
+
+font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: center;
+margin: 0 auto;
+padding: 30px 0 0 60px;
+color: rgba(0, 0, 0, 1);
+}
+
+.Terms{
+    display: flex;
+    justify-content: center;
+    padding: 20px 0 20px 50px;
+}
+
+.Policy{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.Use{
+    
+    width: 105px;
+height: 19px;
+
+font-family: Poppins;
+font-size: 10px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+color: rgba(45, 46, 46, 1);
+list-style-type: none;
+}
+
+.Use1{
+    
+    width: 105px;
+height: 19px;
+
+font-family: Poppins;
+font-size: 10px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+color: rgba(45, 46, 46, 1);
+list-style-type: none;
+padding: 0 0 0 20px;
+}
+
+.Use2{
+    width: 82px;
+height: 19px;
+
+font-family: Poppins;
+font-size: 10px;
+font-weight: 600;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+list-style-type: none;
+color: rgba(38, 38, 38, 1);
+}

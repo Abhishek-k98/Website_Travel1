@@ -1,0 +1,54 @@
+ /* Media query for mobile responsiveness */
+ body{
+  margin: 0;
+  padding: 0;
+ }
+ @media screen and (max-width: 600px) {
+    .nav {
+      width: 1274px;
+height: 51px;
+top: 29px;
+left: 119px;
+padding: 0px, 7.5px, 2px, 206px;
+margin: 0;
+    
+
+    }
+    .navbar{
+        display: block;
+        text-align: center;
+        width: 482px;
+    height: 19px;
+    top: 14px;
+    left: 206px;
+    gap: 40px;
+    
+    }
+  
+    .xyz {
+      margin-bottom: 10px;
+    }
+  }
+
+  @media screen and (max-width: 600px) {
+    .content {
+      text-align: center;
+    }
+  
+    img {
+      max-width: 100%;
+      margin-top: 20px;
+    }
+  }
+
+  
+@media screen and (min-width: 600px) {
+    .card2 {
+      width: calc(33.33% - 20px); /* Adjust width for larger screens */
+    }
+    
+  }
+
+  
+
+  
